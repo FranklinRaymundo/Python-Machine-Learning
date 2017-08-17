@@ -1,2 +1,2 @@
 # Python-Machine-Learning
-Python Machine Learning algorithms and example cases. 
+Algorithms and useful complements for Machine Learning Projects.
